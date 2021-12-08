@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+MNIST_gen.ipynb
+__pycache__/
+mnist/
+pre_trained_models/
